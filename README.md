@@ -20,3 +20,5 @@ https://www.linkedin.com/in/micha%C5%82-krzemi%C5%84ski-125a68131/
 Wojtek tester z powołania. Pracował w kilku różnych środowiskach międzynarodowych, nie jedno widział w QA. Dzieli się swoją wiedzą, a także doświadczeniem z innymi.
 Wojtek zaprezentuje możliwości Cypress.
 https://www.linkedin.com/in/wojciech-sabaj-auto-tester/
+
+Link to GH z prezką i kodem: https://github.com/wojciechsabaj/cypress-test
